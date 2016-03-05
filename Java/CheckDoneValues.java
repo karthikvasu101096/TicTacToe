@@ -21,41 +21,5 @@ public class CheckDoneValues {
 		this.boo_winnable = boo_winnable;
 		this.boo_loosable = boo_loosable;
 	}
-	public int getWinner() {
-		return winner;
-	}
-	public void setWinner(int winner) {
-		this.winner = winner;
-	}
-	public int getPos_win() {
-		return pos_win;
-	}
-	public void setPos_win(int pos_win) {
-		this.pos_win = pos_win;
-	}
-	public int getPos_loose() {
-		return pos_loose;
-	}
-	public void setPos_loose(int pos_loose) {
-		this.pos_loose = pos_loose;
-	}
-	public boolean isBoo() {
-		return boo;
-	}
-	public void setBoo(boolean boo) {
-		this.boo = boo;
-	}
-	public boolean isBoo_winnable() {
-		return boo_winnable;
-	}
-	public void setBoo_winnable(boolean boo_winnable) {
-		this.boo_winnable = boo_winnable;
-	}
-	public boolean isBoo_loosable() {
-		return boo_loosable;
-	}
-	public void setBoo_loosable(boolean boo_loosable) {
-		this.boo_loosable = boo_loosable;
-	}
-
+	
 }
